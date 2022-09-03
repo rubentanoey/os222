@@ -53,12 +53,11 @@
   color: #f0f0f0;
 }
 
-.row {
-}
+.row {}
 
 .column {
   float:            left;
-  display:          inline-block;
+  /* display:          inline-block; */
   background:       #808080;
   height:           130px;
   width:            100%;
@@ -96,7 +95,7 @@
 
 .youtube {
   float:            left;
-  display:          inline-block;
+  /* display:          inline-block; */
   height:           150px;
   width:            100%;
   padding-top:      10px;
