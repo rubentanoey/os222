@@ -1,0 +1,51 @@
+version:          "0025--17-Aug-2022"
+copyright:        "2021-2022"
+title:            "GitHub Page Template"
+author:           "J. Walker"
+address:          "Box 7, Mawitaan, Bangalla."
+description:
+  This is a
+  GitHub Page Template description. 
+  See also tagline.
+disclaimer:
+  I have spoken.
+tagline:          "This is a GitHub Page Template tagline"
+keywords:         "jekyll, testing"
+navbarlinks:
+- navbar:         "Home"
+  link:           "/"
+- navbar:         "Links"
+  link:           "/LINKS/"
+- navbar:         "Tips"
+  link:           "/TIPS/"
+- navbar:         "Zip File"
+  link:           "/template.zip"
+- navbar:         "TarBall"
+  link:           "/template.tar.bz2"
+- navbar:         "GitHub"
+  link:           "https://github.com/yforku/template/"
+- navbar:         "Listing"
+  link:           "/000.html"
+- navbar:         "About"
+  link:           "/ABOUT/"
+- navbar:         "GitHub Page"
+  link:           "https://template.vlsm.org/"
+lang:             "en-US"
+sitemap:          "true"
+markdown:         "kramdown"
+urlweb:           "https://template.vlsm.org/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/yforku/template/"
+google_analytics: "G-KPSLWHN6H7"
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-paginate
+defaults:
+- scope:
+    path:    ""
+  values:
+    layout:  "default"
+github:
+- metadata
+

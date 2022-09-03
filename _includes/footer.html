@@ -1,0 +1,22 @@
+<div>
+<br>
+<h2>DISCLAIMER</h2>
+<br><b>This is the WAY!</b> This template is mainly written for <b>OWN PURPOSES</b>.
+Hopefully, it will be helpful in the future.
+It is based on "<i>Google There, Google Here, Try That, Try This, Then Ask.</i>"
+Whether this is <b>PLAGIARY</b> or <b>RESEARCH</b>, 
+there has never been a claim that this is an original work, 
+nor is it necessarily the best solution, and not for Scopus consumption :).
+You might provide feedback on alternative ideas. 
+<br><br><br>
+<hr>
+<div>
+&copy; {{ site.copyright }} --- {{ site.author }} --- 
+{% for ii in site.navbarlinks %}    
+  {% if ii.navbar == "About" %}
+    <a href="{{ ii.link | relative_url }}">{{ ii.navbar }}</a> ---
+  {% endif %}
+{% endfor %}
+Revision: {{ site.version }}.
+</div>
+</div>

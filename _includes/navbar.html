@@ -1,0 +1,16 @@
+<!--
+File   _includes/navbar.html
+REV02: Tue 03 Aug 2021 09:41:00 WIB
+REV01: Sun 04 Jul 2021 09:57:16 WIB
+START: Wed 17 Feb 2021 19:48:31 WIB
+This is a free HTML file
+-->
+
+<nav class='navbar'>
+  <ul>
+    {% for ii in site.navbarlinks %}    
+      <li><a href="{{ ii.link | relative_url }}">{{ ii.navbar }}</a>
+    {% endfor %}
+  </ul>
+</nav>
+

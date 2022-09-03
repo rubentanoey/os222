@@ -1,0 +1,104 @@
+---
+title:  "GitHub Page Configuration Files"
+---
+
+### _config.yml
+
+```
+(> _config.yml <)
+```
+
+<br id="idx01">
+### index.md
+
+```
+{% raw %}
+(> index.md <)
+{% endraw %}
+```
+
+<br id="idx02">
+### about.md
+
+```
+(> about.md <)
+```
+
+<br id="idx03">
+### tips.md
+
+```
+(> tips.md <)
+```
+
+<br id="idx04">
+### links.md
+
+```
+(> links.md <)
+```
+
+<br id="idx05">
+### Gemfile
+
+```
+(> Gemfile <)
+```
+
+<br id="idx06">
+### _layouts/default.html
+
+```
+{% raw %}
+(> _layouts/default.html <)
+{% endraw %}
+```
+
+<br id="idx07">
+### Makefile
+
+```
+(> Makefile <)
+```
+
+<br id="idx08">
+### _includes/head.html
+
+```
+{% raw %}
+(> _includes/head.html <)
+{% endraw %}
+```
+
+<br id="idx09">
+### _includes/navbar.html
+
+```
+{% raw %}
+(> _includes/navbar.html <)
+{% endraw %}
+```
+
+<br id="idx10">
+### assets/css/style.css
+
+```
+(> assets/css/style.css <)
+```
+
+<br id="idx11">
+### _includes/google-analytics.html
+
+```
+{% raw %}
+(> _includes/google-analytics.html <)
+{% endraw %}
+```
+
+<br id="idx12">
+### assets/scripts/includeScript.py 
+
+```
+(> assets/scripts/includeScript.py <)
+```
+
