@@ -4,7 +4,8 @@ permalink: /ABOUT/
 
 # About
 
-Ruben Tanoey, OS 2022 Student
+Ruben Tanoey, 
+Operating Systems 2022-2 (Odd Semester 22/23)
 
 <br>
 # More Information
@@ -23,7 +24,6 @@ Ruben Tanoey, OS 2022 Student
 {% endfor %}
 </li></ul><br>
 
-# This is the Way!
 
 
 
