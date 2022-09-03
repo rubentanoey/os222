@@ -5,3 +5,4 @@ ZCZC W00 20 L03 GitHub related
 ZCZC W00 10 L00 General, etc.
 ZCZC W00 70 L04 GitHub Pages Related
 ZCZC W00 150 L70 Studying for other courses
+ZCZC W00 60 L09 Assignment in General
