@@ -4,18 +4,16 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [One](https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine)<br>
+A nice overview about virtualization and virtual machine by Red Hat.
+It tells basic knowledge about virtual machine and reasons of using it.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Two](https://kinsta.com/blog/linux-commands/)<br>
+A compact Linux commands to be learnt. Every commands are well-explained.
+Code bar, code options, and result screenshots are provided there so that
+learner can ensure the inputs and outputs.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
-
+3. [Three](https://www.youtube.com/watch?v=wX75Z-4MEoM)<br>
+A compact video of the urgency of virtual machine. NetworkChuck elucidate what, 
+why, and how virtual machine works and the installment for everyone. Lastly,
+the tips and tricks for the VirtualBox users that also help me.
