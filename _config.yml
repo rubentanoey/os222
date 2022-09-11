@@ -6,7 +6,6 @@ address:          "Fasilkom, Universitas Indonesia."
 description:
   Operating Systems 2022-2 (Odd Semester 22/23)
 disclaimer:
-  Trying my best.
 keywords:         ""
 navbarlinks:
 - navbar:         "Home"
@@ -15,6 +14,8 @@ navbarlinks:
   link:           "https://github.com/rubentanoey/os222"
 - navbar:         "mylog.txt"
   link:           "https://github.com/rubentanoey/os222/blob/main/TXT/mylog.txt"
+- navbar:         "/LINKS/"
+  link:           ""
 - navbar:         "TarBall"
   link:           "https://os.vlsm.org/Log/rubentanoey.tar.bz2.txt"
 lang:             "en-US"
