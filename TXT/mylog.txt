@@ -8,3 +8,7 @@ ZCZC W00 150 L70 Studying for other courses
 ZCZC W00 60 L09 Assignment in General
 ZCZC W00 30 L05 Quiz related including studying
 ZCZC W01 10 L09 Assignment in General
+ZCZC W01 200 L09 Assignment in General
+ZCZC W01 120 L70 Studying for other courses
+ZCZC W01 20 L03 GitHub related
+ZCZC W01 200 L02 ZOOM meetings related
