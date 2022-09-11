@@ -13,7 +13,7 @@ navbarlinks:
 - navbar:         "GitHub"
   link:           "https://github.com/rubentanoey/os222"
 - navbar:         "mylog.txt"
-  link:           "https://github.com/rubentanoey/os222/blob/main/TXT/mylog.txt"
+  link:           "https://rubentanoey.github.io/os222/TXT/mylog.txt"
 - navbar:         "Links"
   link:           "/LINKS/"
 - navbar:         "TarBall"
