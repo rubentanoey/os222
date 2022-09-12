@@ -54,11 +54,12 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: #F4FCFF;
+  border-radius: 25px;
 }
 
 .container a:hover {
-  color: #f0f0f0;
+  color: #F4FCFF;
 }
 
 .row {
@@ -145,8 +146,8 @@
 
 .navbar ul li {
   display:          inline-block;
-  background-color: hsla(0,     0%,    0%, 1);
-  padding:          11px;
+  background-color: #CCEBDE;
+  padding:          12px;
 }
 
 .navbar ul li a {
@@ -157,7 +158,6 @@
   background-color: #036BFB;
   font-size:        1em;
   font-weight:      bold;
-  padding:          2px;
 }
 
 pre {
