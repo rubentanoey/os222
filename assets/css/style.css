@@ -9,17 +9,17 @@
 }
 
 .plainclass {
-  color:            white;
+  color:            #F4FCFF;
   background-color: #101030;
 }
 
 /* See https://www.w3schools.com/colors/colors_hsl.asp              */
 /* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
 .plainclass1 {
-  color:            hsl(0, 100%, 100%);
-  background-color: hsl(0, 10%, 10%);
+  color:            #101030;
+  background-color: #F4FCFF;
   line-height:      120%;
-  font-family:      monospace,courier;
+  font-family:      'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .plainclass1 li {
@@ -27,23 +27,23 @@
 }
 
 .plainclass1 h1 {
-  color:            hsl(100, 50%, 50%);
+  color:            #036BFB;
   font-size:        1.9em;
   font-weight:      bold;
 }
 
 .plainclass1 h2 {
-  color:            hsl(100, 50%, 50%);
+  color:            #036BFB;
   font-size:        1.4em;
   font-weight:      bold;
 }
 
 .plainclass1 h3 {
-  color:            hsl(100, 50%, 50%);
+  color:            #036BFB;
 }
 
 .plainclass1 h4 {
-  color:            hsl(100, 50%, 50%);
+  color:            #036BFB;
 }
 
 .container {
@@ -154,15 +154,15 @@
 }
 
 .navbar ul li a:hover {
-  background-color: hsla(255,   100%,   50%, 1);
-  font-size:        1.15em;
+  background-color: #036BFB;
+  font-size:        1em;
   font-weight:      bold;
   padding:          2px;
 }
 
 pre {
-  background-color: hsla(0,     0%,    0%, 1);
-  border:           1px solid hsla(0,    50%,   20%, 1);
+  background-color: #04285A;
+  border:           1px solid #036BFB;
   padding:          10px;
   font-size:        16px;
   color:            hsla(0,   100%,  100%, 1);
@@ -179,7 +179,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #036BFB;
   padding: 5px 10px;
 }
 

@@ -10,16 +10,16 @@
 
 .plainclass {
   color:            white;
-  background-color: #101030;
+  background-color: #050203;
 }
 
 /* See https://www.w3schools.com/colors/colors_hsl.asp              */
 /* See https://www.quackit.com/css/color/charts/hsl_color_chart.cfm */
 .plainclass1 {
-  color:            hsl(0, 100%, 100%);
-  background-color: hsl(0, 10%, 10%);
+  color:            #04285A;
+  background-color: #F4FCFF;
   line-height:      120%;
-  font-family:      monospace,courier;
+  font-family:      'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .plainclass1 li {
@@ -27,15 +27,15 @@
 }
 
 .plainclass1 h1 {
-  color:            hsl(100, 50%, 50%);
+  color:            #036BFB;
 }
 
 .plainclass1 h2 {
-  color:            hsl(100, 50%, 50%);
+  color:            #036BFB;
 }
 
 .plainclass1 h3 {
-  color:            hsl(100, 50%, 50%);
+  color:            #036BFB;
 }
 
 .container {
@@ -129,8 +129,8 @@
 }
 
 .navbar {
-  background-color: #101010;
-  color:            #FFFFFF;
+  background-color: #101030;
+  color:            #F4FCFF;
   font-size:        0.8em;
 }
 
@@ -146,8 +146,8 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
+  background:       #036BFB;
+  color:            #F4FCFF;
   font-size:        1.2em;
   font-weight:      bold;
 }
@@ -155,7 +155,7 @@
 pre {
   border:        3px solid rgba(255, 255, 255, 0.15);
   padding:       10px; 
-  color:         #b5e853;
+  color:         #036BFB;
   border-radius: 2px;
 }
 
@@ -166,7 +166,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #036BFB;
   padding: 5px 10px;
 }
 

@@ -13,7 +13,7 @@ START: Sun 01 Aug 2021 21:20:00 WIB
 
 .navbar ul li {
   display:          inline-block;
-  background-color: hsla(0,     0%,    0%, 1);
+  background-color: #F4FCFF;
   padding:          11px;
 }
 
@@ -22,28 +22,28 @@ START: Sun 01 Aug 2021 21:20:00 WIB
 }
 
 .navbar ul li a:hover {
-  background-color: hsla(255,   100%,   50%, 1);
+  background-color: #04285A;
   font-size:        1.15em;
   font-weight:      bold;
   padding:          2px;
 }
 
 * {
-  font-family:      monospace,courier;
+  font-family:      'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color:            hsla(  0, 100%, 100%, 1);
   background-color: hsla(  0,  10%,  10%, 1);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:            hsla(120, 100%,  50%, 1);
+  color:            #036BFB;
 }
 
 pre {
-  background-color: hsla(0,     0%,    0%, 1);
+  background-color: #050203;
   border:           1px solid hsla(0,    50%,   20%, 1);
   padding:          10px;
   font-size:        16px;
-  color:            hsla(0,   100%,  100%, 1);
+  color:            #F4FCFF;
   border-radius:    2px;
   word-wrap:        normal;
   overflow:         auto;
