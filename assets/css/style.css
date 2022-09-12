@@ -47,6 +47,7 @@
 }
 
 .container {
+  border-radius: 25px;
   max-width:    70%;
   margin:       0 auto;
   font-size:    1em;
@@ -54,8 +55,7 @@
 }
 
 .container a {
-  color: #F4FCFF;
-  border-radius: 25px;
+  color: #04285A;
 }
 
 .container a:hover {
@@ -139,6 +139,7 @@
 }
 
 .navbar {
+  border-radius:    25px;
   font-size:        0.8em;
   border-width:     0px;
   margin:           0px;
