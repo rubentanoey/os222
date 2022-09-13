@@ -18,12 +18,12 @@
 .plainclass1 {
   color:            #101030;
   background-color: #F4FCFF;
-  line-height:      120%;
+  line-height:      100%;
   font-family:      'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .plainclass1 li {
-  line-height:      140%;
+  line-height:      100%;
 }
 
 .plainclass1 h1 {
@@ -156,7 +156,7 @@
 
 .navbar ul li a {
   text-decoration:  none;
-  padding:          6px;
+  border-spacing:   6px;
 }
 
 .navbar ul li a:hover {
