@@ -146,6 +146,7 @@
 }
 
 .navbar ul li {
+  border-radius: 25px;
   display:          inline-block;
   background-color: #CCEBDE;
   padding:          12px;
