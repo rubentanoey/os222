@@ -22,7 +22,7 @@
 }
 
 .plainclass1 li {
-  line-height:      100%;
+  line-height:      120%;
 }
 
 .plainclass1 h1 {
@@ -144,6 +144,10 @@
   margin:           4px;
 }
 
+.navbar ul {
+  padding:          12px;
+}
+
 .navbar ul li {
   border-radius: 12px;
   display:          inline-block;
@@ -187,24 +191,6 @@ td {
   padding: 5px 10px;
 }
 
-/*
-  ZCZC
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 10px; 
-  color: #b5e853;
-  background: rgba(0, 0, 0, 0.9);
-  border-radius: 2px;
-  word-wrap: normal;
-  overflow: auto;
-  overflow-y: hidden;
-  max-width: 65%;
-
- */
-
-/*
- ************************************************************
- */
-
 @media screen and (max-width:768px) {
   ul {
     margin: 0;
@@ -233,9 +219,5 @@ td {
     font-size: 1em;
   }
 }
-
-/*
- ************************************************************
- */
 
 
