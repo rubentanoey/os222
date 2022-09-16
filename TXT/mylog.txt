@@ -13,3 +13,11 @@ ZCZC W01 120 L70 Studying for other courses
 ZCZC W01 20 L03 GitHub related
 ZCZC W01 20 L05 Quiz related including studying
 ZCZC W01 200 L02 ZOOM meetings related
+ZCZC W02 180 L70 Studying for other courses
+ZCZC W02 30 L03 GitHub related
+ZCZC W02 30 L05 Quiz related including studying
+ZCZC W02 120 L09 Assignment in General
+ZCZC W02 200 L02 ZOOM meetings related
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 90 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W02 40 L09 Assignment in General

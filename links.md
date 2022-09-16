@@ -17,3 +17,12 @@ learner can ensure the inputs and outputs.
 A compact video of the urgency of virtual machine. NetworkChuck elucidate what, 
 why, and how virtual machine works and the installment for everyone. Lastly,
 the tips and tricks for the VirtualBox users that also help me.
+
+4. [15 Cybersecurity Terms You Should Know](https://www.youtube.com/watch?v=wRQorGs2HUw)<br>
+Cybersecurity terms that successfully illustrated on a 4-minutes-long video.
+With comprehensible choices of definitions, University of Miami explains the terms on
+Cybersecurity. Two of them are Firewall and Denial of Service (DOS).
+
+5. [What do I do to protect against Ransomware?](https://security.berkeley.edu/faq/ransomware/what-do-i-do-protect-against-ransomware )<br>
+Great insight to enhance the knowledge about Ransomware's dangers and the steps 
+to avoid it. Berkeley IS shows how we must be cautious about Cybersecurity-insecurity.
