@@ -21,3 +21,4 @@ ZCZC W02 200 L02 ZOOM meetings related
 ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 90 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W02 40 L09 Assignment in General
+ZCZC W02 30 L64 Helping a friend (OS related problem)
