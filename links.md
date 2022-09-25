@@ -26,3 +26,7 @@ Cybersecurity. Two of them are Firewall and Denial of Service (DOS).
 5. [What do I do to protect against Ransomware?](https://security.berkeley.edu/faq/ransomware/what-do-i-do-protect-against-ransomware )<br>
 Great insight to enhance the knowledge about Ransomware's dangers and the steps 
 to avoid it. Berkeley IS shows how we must be cautious about Cybersecurity-insecurity.
+
+6. [The Linux File System explained in 1,233 seconds](https://www.youtube.com/watch?v=A3G-3hp88mo)<br>
+A concise video of how File System in Linux works. One of the big idea that NetworkChuck
+shares is "Everything in Linux is a File", e.g. network configurations, CD-ROM. HD, Printer, etc.

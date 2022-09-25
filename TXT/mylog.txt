@@ -25,3 +25,4 @@ ZCZC W02 30 L64 Helping a friend (OS related problem)
 ZCZC W03 200 L02 ZOOM meetings related
 ZCZC W03 90 L70 Studying for other courses.
 ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 20 L43 TXT/myrank.tex related, including peer review.
