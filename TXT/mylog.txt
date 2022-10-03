@@ -26,3 +26,14 @@ ZCZC W03 200 L02 ZOOM meetings related
 ZCZC W03 90 L70 Studying for other courses.
 ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 90 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 30 L03 GitHub related
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 120 L09 Assignment in General
+ZCZC W04 200 L02 ZOOM meetings related
+ZCZC W04 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 160 L70 Studying for other courses. 
+ZCZC W04 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W04 90 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W04 40 L09 Assignment in General
+ZCZC W04 30 L64 Helping a friend (OS related problem)

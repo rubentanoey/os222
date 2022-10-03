@@ -30,3 +30,9 @@ to avoid it. Berkeley IS shows how we must be cautious about Cybersecurity-insec
 6. [The Linux File System explained in 1,233 seconds](https://www.youtube.com/watch?v=A3G-3hp88mo)<br>
 A concise video of how File System in Linux works. One of the big idea that NetworkChuck
 shares is "Everything in Linux is a File", e.g. network configurations, CD-ROM. HD, Printer, etc.
+
+7. [Shichao's Notes: Memory Addressing](https://notes.shichao.io/utlk/ch2/)<br>
+A complete webpage of how Memory Addressing works in Linuz. Shichao explains what's
+memory addresses, segmentation in hardware, segmentation in Linux, paging in hardware 
+and paging in Linux.
+
