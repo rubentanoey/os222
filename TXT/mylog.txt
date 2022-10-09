@@ -37,3 +37,14 @@ ZCZC W04 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W04 90 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W04 40 L09 Assignment in General
 ZCZC W04 30 L64 Helping a friend (OS related problem)
+ZCZC W05 90 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 30 L03 GitHub related
+ZCZC W05 20 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 120 L09 Assignment in General
+ZCZC W05 200 L02 ZOOM meetings related
+ZCZC W05 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 160 L70 Studying for other courses.
+ZCZC W05 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 90 L25 C-language including Make.
+ZCZC W05 40 L09 Assignment in General

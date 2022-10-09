@@ -36,3 +36,11 @@ A complete webpage of how Memory Addressing works in Linuz. Shichao explains wha
 memory addresses, segmentation in hardware, segmentation in Linux, paging in hardware 
 and paging in Linux.
 
+8. [Writing and Running C Program in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
+A nice and brief webpage for me to learn writing and running C program in VirtualBox.
+Install-Write-Compile-Run: Vitux gives all the command pieces and output screenshots.
+
+9. [What Is the Virtual Memory? How to Set It?](https://www.minitool.com/lib/virtual-memory.html)<br>
+Complete guide of how Virtual Memory works and the reasonable setting of it. It includes
+the introduction of Virtual Memory, Virtual Memory paging file and disk fragmentation. Moreover,
+there are different ways to fix 'too little Virtual Memory' stated here.
