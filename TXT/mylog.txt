@@ -48,3 +48,13 @@ ZCZC W05 160 L70 Studying for other courses.
 ZCZC W05 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W05 90 L25 C-language including Make.
 ZCZC W05 40 L09 Assignment in General
+ZCZC W06 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W06 60 L05 Quiz related including studying
+ZCZC W06 180 L09 Assignment in General
+ZCZC W06 90 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 30 L03 GitHub related
+ZCZC W06 160 L70 Studying for other courses.
+ZCZC W06 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 90 L25 C-language including Make.
+ZCZC W06 60 L09 Assignment in General
