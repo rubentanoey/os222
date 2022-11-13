@@ -66,3 +66,14 @@ which instruction to be executed next and stores history of execution in Stack.
 A thorough webpage that helps understanding Processes. In concept of Processes,
 there are several components: Stack, Heap, Text, and Data. Heap is dynamically allocated
 memory to a process during its run time.
+
+## WEEK 07
+
+12. [Deadlock in Operation System](https://www.youtube.com/watch?v=UVo9mGARkhQ)<br>
+A thorough video of the conditions of Deadlock. Simple Snippets elucidate what's Deadlock,
+how Deadlock, and real world OS scenarios of Deadlock. Lastly, the video helps me to
+understand the 4 conditions a Deadlock occurs in OS.
+
+13. [Operation Systems: Process Synchronization](https://www.youtube.com/watch?v=eKKc0d7kzww)<br>
+A compact video from in5minutes of process synchronization. The main point of this video
+is to learn about the critical region in process synchronization with real time example.
