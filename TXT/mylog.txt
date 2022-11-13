@@ -58,3 +58,12 @@ ZCZC W06 160 L70 Studying for other courses.
 ZCZC W06 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W06 90 L25 C-language including Make.
 ZCZC W06 60 L09 Assignment in General
+ZCZC W07 120 L09 Assignment in General
+ZCZC W07 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 120 L05 Quiz related including studying
+ZCZC W07 30 L03 GitHub related
+ZCZC W07 90 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 30 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W07 160 L70 Studying for other courses.
+ZCZC W07 90 L25 C-language including Make.
+ZCZC W07 60 L09 Assignment in General
