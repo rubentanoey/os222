@@ -77,3 +77,13 @@ understand the 4 conditions a Deadlock occurs in OS.
 13. [Operation Systems: Process Synchronization](https://www.youtube.com/watch?v=eKKc0d7kzww)<br>
 A compact video from in5minutes of process synchronization. The main point of this video
 is to learn about the critical region in process synchronization with real time example.
+
+## WEEK 08
+
+14. [What's .bashrc file in Linux](https://www.digitalocean.com/community/tutorials/bashrc-file-in-linux)<br>
+A good webpage from DigitalOcean that tells everything about .bashrc. There's stated 
+that .bashrc is a script file that’s executed when a user logs in. The file itself 
+contains a series of configurations for the terminal session.
+
+15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+A main webpage that guides to make Linux From Scratch. A complete guide.
