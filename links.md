@@ -87,3 +87,8 @@ contains a series of configurations for the terminal session.
 
 15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
 A main webpage that guides to make Linux From Scratch. A complete guide.
+
+## WEEK 09
+
+16. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/)<br>
+A main webpage that guides to make Linux From Scratch. A complete guide.

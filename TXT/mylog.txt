@@ -78,3 +78,13 @@ ZCZC W08 200 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W08 90 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W08 40 L09 Assignment in General
 ZCZC W08 30 L64 Helping a friend (OS related problem)
+ZCZC W09 30 L03 GitHub related
+ZCZC W09 90 L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 60 L05 Quiz related including studying
+ZCZC W09 120 L09 Assignment in General
+ZCZC W09 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 160 L70 Studying for other courses.
+ZCZC W09 160 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W09 30 L64 Helping a friend (OS related problem)
+ZCZC W09 160 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W09 40 L09 Assignment in General
